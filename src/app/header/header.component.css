@@ -1,0 +1,28 @@
+
+a{
+  text-decoration: none;
+  color:black;
+  margin-left: 1%;
+  margin-right: 5%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+.logout{
+  color:black;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+.spacer{
+  margin-left: auto;
+  display: flexbox;
+}
+mat-toolbar{
+  margin-top: 1rem;
+  margin-right: 1rem;
+  width: 90%;
+  margin-left:1rem;
+}
+.header-messages{
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,14 @@
+.alert {
+  padding: 15px;
+  background-color: #ff471a;
+  color: white;
+  text-align: center;
+}
+button{
+  margin-top: 10%;
+  margin-left: 30%;
+}
+.message{
+  padding: 15px;
+}
+

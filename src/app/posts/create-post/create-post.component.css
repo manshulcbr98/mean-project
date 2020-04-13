@@ -1,0 +1,28 @@
+
+mat-spinner{
+  margin: auto;
+}
+mat-form-field,textarea{
+  width: 100%;
+}
+.pickImage{
+  margin-left: auto;
+}
+input[type="file"]{
+
+  visibility: hidden;
+}
+.image-preview {
+  height: 5rem;
+  margin: 1rem 0;
+}
+.image-preview img{
+  height: 100%;
+}
+button{
+  position: relative;
+  margin-top: 10%;
+}
+.addPost{
+  margin-right: 1%;
+}
